@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx8968a6975b838fd9",
+# 公众号appSecret
+"app_secret": "9079ba35632a59a8b972012c7f0811cb",
+# 模板消息id
+"template_id": "32K0PXECddYfGvoo5eKx42We7Kk4XBvwM7w8kEc3uMA",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["weixin1", "weixin2"]
+"user": ["ob6R75l5aGN2quEViPkOOXVyiDu8","ob6R75mKn6KNxCIivgjydEh3ew8Q"],
+ 
+# 信息配置
+# 和风天气apikey
+"weather_key": "f555026b24844e328340ca5b1ebc5702",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
+"region": "九江市",
+# 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
+"birthday1": {"name": "卞破壳", "birthday": "2022-12-29"},
+# 生日2
+"birthday2": {"name": "孙小贼", "birthday": "2022-03-26"},
+# 在一起的日子，格式同上，暂不不支持农历
+"love_date": "2022-08-14",
+# 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"note_ch": "每天都要好好照顾好自己，好好吃饭，乖乖听话。我爱你呀我的傻老婆！mua~",
+# 金句英文
+"note_en": ""
+}
